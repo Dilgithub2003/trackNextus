@@ -1,0 +1,9 @@
+server:
+  port: 8882
+
+mqtt:
+  broker: ssl://lfaf2f02.ala.asia-southeast1.emqxsl.com:8883
+  clientId: telemetry-service
+  username: location_tracker001
+  password: LTracker001
+  topic: device/telemetry
