@@ -3,6 +3,7 @@
 TrackSync is a GPS tracking and telemetry mobile application for recording, visualizing, and sharing location and sensor data in real time.
 
 ## Features
+- JWT authentication System
 - Real-time GPS tracking and route recording
 - Telemetry logging (speed, altitude, heading, custom sensors)
 - Offline recording with background tracking
