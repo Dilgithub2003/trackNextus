@@ -80,6 +80,7 @@ public class TelemetryWebSocketHandler extends TextWebSocketHandler {
         }
     }
 
+// check for significant data to trigger messaage 
 
 
     @Override
